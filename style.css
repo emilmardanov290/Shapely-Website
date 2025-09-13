@@ -197,7 +197,7 @@ menu li a{
     display: block;    
     margin: 0 auto;  
 }
-/*Forth part*/
+/*Forth part */
 #forth-part{
     display: flex;
     flex-direction: column;

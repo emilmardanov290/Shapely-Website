@@ -201,7 +201,7 @@ menu li a{
 #forth-part{
     display: flex;
     flex-direction: column;
-    background: url('/materials/Bg2.jpg') no-repeat center center;
+    background: url('/materials/bg2.jpg') no-repeat center center;
     background-size: cover;
     align-items: center;
     justify-content: center;

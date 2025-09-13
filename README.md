@@ -12,3 +12,5 @@ I recreated it entirely with **HTML** and **CSS** to practice front-end developm
 - **HTML5**  
 - **CSS3**  
 
+## Vercel Link
+[shapely-website-lac.vercel.app](https://shapely-website-lac.vercel.app)
